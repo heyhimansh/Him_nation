@@ -40,17 +40,9 @@ Hi, I'm [Himanshu], a passionate self-taught coder.
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-
-
-
-
-
-
-
-
-
-
+\n
+\,
+"\n"
 
 📈 My GitHub Stats
 
