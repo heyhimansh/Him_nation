@@ -48,6 +48,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="centre"> <img src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=gotham" alt="heyhimansh" />
 
+### Spotify Playing 🎧
+
+<iframe src="https://open.spotify.com/embed/playlist/0WKxzctYoRaxeaBVlUV1eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
