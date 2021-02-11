@@ -18,8 +18,13 @@
 
 Hi, I'm [Himanshu], a passionate self-taught coder.
 
+
+
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+ 
+ 
+ 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Himanshu](https://mail.google.com/mail/u/1/#inbox);
 - ✨ **Wanna Talk?**
@@ -36,7 +41,15 @@ Hi, I'm [Himanshu], a passionate self-taught coder.
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<!-- TODO-IST:END -->
+
+
+
+
+
+
+
+
+
 
 
 📈 My GitHub Stats
