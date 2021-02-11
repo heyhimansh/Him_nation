@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Himanshu], a passionate self-taught coder.
+Hi, I'm Himanshu, a passionate self-taught coder.
 
 
 
