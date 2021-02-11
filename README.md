@@ -21,6 +21,14 @@
 
 Hi, I'm [himanshu]
 
+LET THE SECRET LIE WITHIN YOU
+
+Hi there, I'am himanshu
+🔭 Unfollow fake friends
+🌱 I’m currently learning everything 🤣
+🥅 2021 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love mathematics
+
   
   
 **INTRo
