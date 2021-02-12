@@ -63,5 +63,20 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
       <h1></h1>
    </body>
 </html>
+<!DOCTYPE html>
+<html>
+   <head>
+      <style>
+         #demo {
+            height: 200px;
+            background: radial-gradient(green, orange, maroon);
+         }
+      </style>
+   </head>
+   <body>
+      <p>Setting background as radial gradient.</p>
+      <div id = "demo"></div>
+   </body>
+</html>
 
 
