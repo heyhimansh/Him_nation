@@ -50,4 +50,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 Spotify Playing 🎧
 
-<iframe src="<iframe src="https://open.spotify.com/embed/playlist/0WKxzctYoRaxeaBVlUV1eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+<iframe align="centre" src="<iframe src="https://open.spotify.com/embed/playlist/0WKxzctYoRaxeaBVlUV1eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
