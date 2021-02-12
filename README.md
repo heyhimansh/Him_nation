@@ -60,7 +60,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
    </head>
 
    <body>
-      <h1>Connect with Tutors</h1>
+      <h1></h1>
    </body>
 </html>
 
