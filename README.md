@@ -54,7 +54,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
    <head>
       <style>
          body {
-            background-image: url("https://th.bing.com/th/id/Rc5d6701e9a3040e2a45e098993a979d7?rik=qVd5DdLj3kl6VQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f9%2fb%2f6%2f1198446-beautiful-4k-galaxy-wallpaper-3840x2160-ios.jpg&ehk=eSeGysxoV8PMYm%2f6olbvtmo6wSPaXAlywYBtICuDGOE%3d&risl=&pid=ImgRaw");
+            background-image: url("https://hdqwalls.com/wallpapers/stars-galaxy-space-4k-qc.jpg");
          }
       </style>
    </head>
