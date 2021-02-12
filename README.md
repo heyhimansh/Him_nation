@@ -54,7 +54,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
    <head>
       <style>
          body {
-            background-image: url("https://hdqwalls.com/wallpapers/stars-galaxy-space-4k-qc.jpg");
+            background-image: url("https://www.hdwallpapers.in/download/mountains_landscape_hd_4k-wide.jpg");
          }
       </style>
    </head>
