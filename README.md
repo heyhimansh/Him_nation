@@ -63,4 +63,38 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
       <h1></h1>
    </body>
 </html>
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <meta charset="utf-8"> 
+    <title> 
+        How to make a CSS glass/blur 
+        effect work for an overlay? 
+    </title> 
+      
+    <link rel="stylesheet" href= 
+"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
+</head> 
+  
+<body> 
+    <section> 
+        <div class="layout"> 
+            <h2>GeeksforGeeks</h2> 
+            <p> 
+                It is a computer science portal for geeks. 
+                It is a platform where you can learn and 
+                practice programming problems. It contains 
+                programming content, web technology content, 
+                and some other domain content also. 
+            </p> 
+  
+            <button class="btn btn-outline-danger"> 
+                Button 
+            </button> 
+        </div> 
+    </section> 
+</body> 
+  
+</html> 
 
