@@ -49,20 +49,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="centre"> <img src="https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=gotham" alt="heyhimansh" />
 
 
-<!DOCTYPE html>
-<html>
-   <head>
-      <style>
-         body {
-            background-image: url("https://www.hdwallpapers.in/download/mountains_landscape_hd_4k-wide.jpg");
-         }
-      </style>
-   </head>
-
-   <body>
-      <h1></h1>
-   </body>
-</html>
-
-
-
