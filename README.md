@@ -50,6 +50,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
  
 <p align="centre">
   
- ![HIMANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=radical)
+![HIMANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=radical)
 
 
