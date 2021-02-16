@@ -52,18 +52,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://www.flaticon.com/svg/vstatic/svg/12/12773.svg?token=exp=1613476566~hmac=858ad27071e3fa07a9281ccd390194ff" crossorigin="anonymous"></script>
-<!--Get your code at fontawesome.com-->
+<link rel="stylesheet" href="https://www.flaticon.com/free-icon/ninja-shuriken_12773?term=ninja&page=1&position=3&page=1&position=3&related_id=12773&origin=style">
 </head>
 <body>
-
-<i class="fas fa-band-aid"></i>
-<i class="fas fa-cat"></i>
-<i class="fas fa-dragon"></i>
-<i class="far fa-clock"></i>
-<i class="fas fa-clock"></i>
-
-</body>
-</html>
-
-
