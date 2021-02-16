@@ -49,5 +49,21 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![HIMANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhimansh&show_icons=true&theme=radical)
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://www.flaticon.com/svg/vstatic/svg/12/12773.svg?token=exp=1613476566~hmac=858ad27071e3fa07a9281ccd390194ff" crossorigin="anonymous"></script>
+<!--Get your code at fontawesome.com-->
+</head>
+<body>
+
+<i class="fas fa-band-aid"></i>
+<i class="fas fa-cat"></i>
+<i class="fas fa-dragon"></i>
+<i class="far fa-clock"></i>
+<i class="fas fa-clock"></i>
+
+</body>
+</html>
 
 
