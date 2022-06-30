@@ -1,4 +1,5 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Hey there <img src= "https://user-images.githubusercontent.com/72097380/176737606-d47b6daa-76cd-4008-9b90-232b1b8ff494.png" width ="27px">
 
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
